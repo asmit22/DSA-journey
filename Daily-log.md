@@ -1,3 +1,14 @@
+## 📅 Progress Tracker
+
+| Day   | Topic                          | Status |
+| ----- | ------------------------------ | ------ |
+| Day 1 | Basics (Variables, Data Types) | ✅      |
+| Day 2 | operators          | ✅      |
+| Day 3 |              |       |
+
+*(Updating daily as I learn)*
+
+
 #Day 1 
 - learned about data types in java
 - learned about operators (like arithmetic, increment- decrement & bitwise operators) in java 

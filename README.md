@@ -10,15 +10,7 @@ This repository documents my complete journey of learning Java — from core fun
 * 🛠 Mini Projects
 * 📒 Notes and Key Learnings
 
-## 📅 Progress Tracker
 
-| Day   | Topic                          | Status |
-| ----- | ------------------------------ | ------ |
-| Day 1 | Basics (Variables, Data Types) | ✅      |
-| Day 2 | Conditionals & Loops           | ✅      |
-| Day 3 | Functions & Arrays             | ✅      |
-
-*(Updating daily as I learn)*
 
 ## 🧩 Tech Stack
 
