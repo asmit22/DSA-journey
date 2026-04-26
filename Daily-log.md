@@ -4,7 +4,7 @@
 | ----- | ------------------------------ | ------ |
 | Day 1 | Basics (Variables, Data Types) | ✅      |
 | Day 2 | operators          | ✅      |
-| Day 3 |              |       |
+| Day 3 | Bitwise operator              |   ✅    |
 
 *(Updating daily as I learn)*
 
